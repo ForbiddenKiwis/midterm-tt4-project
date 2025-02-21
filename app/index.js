@@ -1,9 +1,9 @@
 import './index.scss';
 
 // images
-import enginakyurt from "./assets/images/pexels";
-import quangVietNguyen from "./assets/images/product2.jpg";
-import yaazhini from "./assets/images/product3.jpg";
+import enginakyurt from ".assets/images/pexels-enginakyurt-4458519.jpg";
+import quangVietNguyen from ".assets/images/pexels-quang-viet-nguyen-107013384-9561297.jpg";
+import yaazhini from ".assets/images/pexels-yaazhini-17307532.jpg.jpg";
 
 document.addEventListener("DOMContentLoaded", () => {
 
