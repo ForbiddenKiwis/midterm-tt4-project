@@ -62,10 +62,39 @@ document.addEventListener("DOMContentLoaded", () => {
             image: '../app/assets/images/product7.jpg'
         },
         {
-            
+            name: 'Coke Diet',
+            description: 'Coke Diet',
+            price: '$3.99',
+            rating: 1.2,
+            image: '../app/assets/images/product7.jpg'
         },
         {
-
+            name: 'Coke Diet',
+            description: 'Coke Diet',
+            price: '$3.99',
+            rating: 1.2,
+            image: '../app/assets/images/product7.jpg'
+        },
+        {
+            name: 'Coke Diet',
+            description: 'Coke Diet',
+            price: '$3.99',
+            rating: 1.2,
+            image: '../app/assets/images/product7.jpg'
+        },
+        {
+            name: 'Coke Diet',
+            description: 'Coke Diet',
+            price: '$3.99',
+            rating: 1.2,
+            image: '../app/assets/images/product7.jpg'
+        },
+        {
+            name: 'Coke Diet',
+            description: 'Coke Diet',
+            price: '$3.99',
+            rating: 1.2,
+            image: '../app/assets/images/product7.jpg'
         },
     ];
 
